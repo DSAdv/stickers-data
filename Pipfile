@@ -4,6 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+requests = "*"
+bs4 = "*"
+python-telegram-bot = "*"
+pillow = "*"
+tqdm = "*"
 
 [dev-packages]
 
